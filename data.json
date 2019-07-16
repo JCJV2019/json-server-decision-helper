@@ -17,6 +17,12 @@
       "desc": "C5",
       "point": "2",
       "question": "Me caso"
+    },
+    {
+      "id": "165496915632908211161747033123",
+      "desc": "pepe",
+      "point": "3",
+      "question": "Me caso"
     }
   ],
   "negativos": [
@@ -37,20 +43,32 @@
       "desc": "C1",
       "point": "1",
       "question": "Me caso"
+    },
+    {
+      "id": "141326271563292188303455268608",
+      "desc": "caca",
+      "point": "2",
+      "question": "Me caso"
     }
   ],
   "users": [
     {
       "email": "mi@email.com",
       "password": "$2a$10$7qQB7bP0Y2rg9HV6AVXAAOb25zMIcWNPqlVdeChADWS4uHPw8rPY2",
-      "user": "mi",
+      "name": "mi",
       "id": 2
     },
     {
       "email": "cjordan@gmail.com",
       "password": "$2a$10$FMLiQW2vbTxeKD5KcIVUheynWY9advWM9lge240vFp6ybJDcqB98K",
-      "user": "cjordan",
+      "name": "cjordan",
       "id": 3
+    },
+    {
+      "email": "jcjv@gmail.com",
+      "password": "$2a$10$RgC5NunSx5otxW9Bh4qXaOui274eQWGUENM90an3xXw5.PgviDOqC",
+      "name": "JCJV",
+      "id": 4
     }
   ]
 }
